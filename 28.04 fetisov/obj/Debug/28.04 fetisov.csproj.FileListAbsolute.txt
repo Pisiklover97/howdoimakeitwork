@@ -1,0 +1,10 @@
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\bin\Debug\28.04 fetisov.exe.config
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\bin\Debug\28.04 fetisov.exe
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\bin\Debug\28.04 fetisov.pdb
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\28.04 fetisov.csproj.AssemblyReference.cache
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\_28._04_fetisov.Form1.resources
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\_28._04_fetisov.Properties.Resources.resources
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\28.04 fetisov.csproj.GenerateResource.cache
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\28.04 fetisov.csproj.CoreCompileInputs.cache
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\28.04 fetisov.exe
+D:\Documents\ИС 21 Фетисов Георгий\28.04 fetisov\obj\Debug\28.04 fetisov.pdb
